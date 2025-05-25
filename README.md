@@ -123,7 +123,7 @@ In Terminal: **sudo zypper install conky jq playerctl**
 
 In Terminal: **cp ~/.config/conky/Altair-Light-Edited/resources/altair-light-edited.desktop ~/.local/share/applications/altair-light-edited.desktop**
 
-You may need to edit **altair-light-edited.desktop** file to setup absolute path to **/home/$USERNAME/.config/conky/Altair-Light-Edited/start.sh** . Change $USERNAME to Your username.
+You may need to edit **altair-light-edited.desktop** file to setup absolute path to **/home/$USERNAME/.config/conky/Altair-Light-Edited/start.sh** . Change **$USERNAME** to Your username.
 
 In Terminal: **chmod +x ~/.local/share/applications/altair-light-edited.desktop**
 
