@@ -1,0 +1,4 @@
+# JPG Image files
+*.jpg
+# /Fonts directory
+/fonts

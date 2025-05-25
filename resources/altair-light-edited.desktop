@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/home/$USERNAME/.config/conky/Altair-Light-Edited/start.sh
+Name=Conky Altair-Light-Edited
+Comment=Conky Altair-Light-Edited
